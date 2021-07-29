@@ -1,0 +1,45 @@
+{
+    "air-jordan-3-valor-blue": {
+      "name": "JORDAN AIR NFH",
+      "img1":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d5f8cb8c-cdc5-467f-9861-0f0b48144204/jordan-air-nfh-shoe-1msFvZ.png",
+      "img2":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/7b3e9038-f094-4868-aa32-92112e7d4e28/jordan-air-nfh-shoe-1msFvZ.png"
+        
+    },
+    "jordan-mars-270-london": {
+      "name": "NIKE VENTURE RUNNER",
+      "img1":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/54972c01-9369-4cff-b51c-872da0982ce4/venture-runner-shoe-FVPSB9.png",
+      "img2":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a6a1f87f-4bb6-4b0a-9fa8-7ed7c7812eb8/venture-runner-shoe-FVPSB9.png"
+    },
+    "air-jordan-1-zoom-racer-blue": {
+      "name": "KYRIE FLYTRAP 4 EP",
+      "img1":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5bcacfc9-dd40-469f-baac-7d8bf3289a1c/kyrie-flytrap-4-ep-basketball-shoe-qzg21C.png",
+        "img2":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ca37803a-ce4c-4f5b-9779-7fa4a401d1b5/kyrie-flytrap-4-ep-basketball-shoe-qzg21C.png"
+    },"air-jordan-1-valor-blue": {
+        "name": "JORDAN ZER0.4 PF",
+        "img1":
+          "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5f71f037-a14d-4b95-abc8-32fe6eafdc43/jordan-why-not-zer04-pf-basketball-shoe-0bpnfr.png",
+        "img2":
+          "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/17a61f33-fa6f-49a0-a82f-f6bbb030cc6b/jordan-why-not-zer04-pf-basketball-shoe-0bpnfr.png"
+      },
+      "jordan-mars-270-london1": {
+        "name": "NIKE AIR MAX 96 2",
+        "img1":
+          "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/767d2c34-f80b-42da-99bd-9f2bc7d1a218/air-max-96-2-shoe-6l7J5T.png",
+        "img2":
+          "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/841c985e-d0ae-4546-806f-91b4c8ee90be/air-max-96-2-shoe-6l7J5T.png"  
+
+      },
+      "air-jordan-2-zoom-racer-blue": {
+        "name": "NIKE AIR ZOOM",
+        "img1":
+          "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1a7f8760-47d8-4396-9f0a-5feb79598e41/air-zoom-alphafly-next-flyknit-road-racing-shoe-bbNsmD.png",
+        "img2":
+          "https://static.nike.com/a/videos/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80,so_0.62/e239a7fc-6085-46f8-9b2f-3b52756509b4/air-zoom-alphafly-next-flyknit-road-racing-shoe-bbNsmD.jpg"  
+      }
+    }
+  
